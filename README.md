@@ -98,7 +98,6 @@ Frontend → Flask Backend → AI Model → Analytics → Dashboard & Reports
 
 ## 📈 Results
 
-- ~98% accuracy using RoBERTa
 - Handles real-world noisy data
 - Scalable for large datasets
 - Supports human-in-the-loop decision making
